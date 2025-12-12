@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Bedouin121/Swiftship-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Zubiii333/swiftshift
